@@ -17,10 +17,10 @@ figcaption{
     height: 200px;
 }
 .ruta-cerros img{
+	border: 6px double #ffffff;
     height: 300px;
 	width: 450px; 
 	margin: auto;
-	border: 6px double #ffffff;
 }
 a{
 	text-decoration: none;
