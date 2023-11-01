@@ -14,7 +14,11 @@ figcaption{
 .imagen img{
 	margin: auto;
 	width: 350px;
-	 height: 200px;
+    height: 200px;
+}
+.ruta-cerros img{
+    height: 500px;
+	width: 450px; 
 }
 a{
 	text-decoration: none;
