@@ -18,6 +18,9 @@ figcaption{
 	width: 450px; 
 	margin: auto;
 }
+.Cigueñas{
+	border: 3px solid #000000;
+}
 a{
 	text-decoration: none;
 	color: #00f;
