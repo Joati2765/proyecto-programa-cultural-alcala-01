@@ -1,6 +1,6 @@
 body{
-	background-color: #000000;
-	color: #ffffff;
+	background-color: #ffffff;
+	color: #000000;
 }
 figcaption{
 	font-size: 16px;
@@ -10,17 +10,17 @@ figcaption{
 .imagen{
 	width: 350px;
     height: 260px;
-	border: 6px double #ffffff;
+	border: 6px double #000000;
 }
 .ruta-cerros img{
-	border: 6px double #ffffff;
+	border: 6px double #000000;
     height: 300px;
 	width: 450px; 
 	margin: auto;
 }
 a{
 	text-decoration: none;
-	color: #368EED;
+	color: #00f;
 }
 a:visited{
 	color: #962496;
