@@ -18,7 +18,8 @@ figcaption{
 }
 .ruta-cerros img{
     height: 500px;
-	width: 450px; 
+	width: 300px; 
+	border: 6px double #ffffff;
 }
 a{
 	text-decoration: none;
