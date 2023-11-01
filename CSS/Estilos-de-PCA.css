@@ -1,9 +1,9 @@
 body{
-	background-color: #ffffff;
-	color: #000000;
+	background-color: #000000;
+	color: #ffffff;
 }
 figure{
-		border: 6px double #000000;
+		border: 6px double #ffffff;
 		width: 350px;
 }
 figcaption{
@@ -18,7 +18,7 @@ figcaption{
 }
 a{
 	text-decoration: none;
-	color: #00f;
+	color: #368EED;
 }
 a:visited{
 	color: #800080;
